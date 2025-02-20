@@ -6,7 +6,7 @@ We'll need a Linux system for development. If you're on **Windows**, install **W
 ### **🔹 Install Essential Tools**
 Run this command to install the necessary tools:  
 ```sh
-sudo apt update && sudo apt install build-essential nasm qemu gcc-multilib gdb
+sudo apt update && sudo apt install build-essential nasm qemu-system gcc-multilib gdb
 ```
 ✅ **GCC** → Compiler for C code  
 ✅ **NASM** → Assembler for low-level Assembly  
